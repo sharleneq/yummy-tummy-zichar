@@ -1,4 +1,4 @@
-# bt3103-week-4
+# bt3103-week-7
 
 ## Project setup
 ```
